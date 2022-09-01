@@ -1,0 +1,15 @@
+C:\Users\User\Documents\SequenciaLimites\bin\Debug\net6.0\SequenciaLimites.exe
+C:\Users\User\Documents\SequenciaLimites\bin\Debug\net6.0\SequenciaLimites.deps.json
+C:\Users\User\Documents\SequenciaLimites\bin\Debug\net6.0\SequenciaLimites.runtimeconfig.json
+C:\Users\User\Documents\SequenciaLimites\bin\Debug\net6.0\SequenciaLimites.dll
+C:\Users\User\Documents\SequenciaLimites\bin\Debug\net6.0\SequenciaLimites.pdb
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.AssemblyInfoInputs.cache
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.AssemblyInfo.cs
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.dll
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\refint\SequenciaLimites.dll
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.pdb
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\SequenciaLimites.genruntimeconfig.cache
+C:\Users\User\Documents\SequenciaLimites\obj\Debug\net6.0\ref\SequenciaLimites.dll
